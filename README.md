@@ -3,7 +3,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'>
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)    [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)   [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shashank-jain-6b6322171/)](https://www.linkedin.com/in/shashank-jain-6b6322171/) [![Gmail Badge](https://img.shields.io/badge/GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shashankjain291298@gmail.com)](mailto:shashankjain291298@gmail.com)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)    [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/Shashankjain12/)   [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shashank-jain-6b6322171/)](https://www.linkedin.com/in/shashank-jain-6b6322171/) [![Gmail Badge](https://img.shields.io/badge/GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shashankjain291298@gmail.com)](mailto:shashankjain291298@gmail.com)
 
 Hi Shashank this side nice to meet you I am a Machine Learning Engineer and a Data Science Enthusiast for that I love to play with ✨ Data ✨  daily You can see some interesting Machine Learning Projects over my repository.
 
