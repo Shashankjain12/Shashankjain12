@@ -1,4 +1,4 @@
-## Hello there, fellow </Developers/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+﻿## Hello there, fellow </Developers/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'>
@@ -7,7 +7,7 @@
 
 Hi Shashank this side nice to meet you I am a Machine Learning Engineer and a Data Science Enthusiast for that I love to play with ✨ Data ✨  daily You can see some interesting Machine Learning Projects over my repository.
 
-I have been into Open Source coding and love to code for the cause .
+I have been into Open Source coding and love to code for the cause and trying to find the ways in order to improve the existing system through the world of AI.
 
 ### Open Source Organisations
 
